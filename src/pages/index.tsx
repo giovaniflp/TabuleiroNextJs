@@ -82,9 +82,6 @@ export default function index(){
                 <div style={{display: "flex", justifyContent:"center"}}>
                     {linhaBlocos2}
                 </div>
-                <div style={{display: "flex", justifyContent:"center"}}>
-                    {linhaBlocos}
-                </div>
             </div>
         </div>
     )
