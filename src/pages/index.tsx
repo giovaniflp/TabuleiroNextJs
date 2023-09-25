@@ -44,7 +44,7 @@ export default function index(){
                             margin: 0;
                             padding: 0;
                             border: 0;
-                            background-color: gray;
+                            background-color: rgb(106, 106, 192);
                             width: 100vw;
                             height: 100vh;
                             display: flex;
