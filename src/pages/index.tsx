@@ -35,6 +35,7 @@ export default function index(){
     return (
         <div>
             <Head>
+                <meta name="google-adsense-account" content="ca-pub-6872790638818192"/>
                 <style>
                     {
                         `
