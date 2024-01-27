@@ -1,0 +1,7 @@
+# This is an AdSense ads.txt file.
+
+# Publisher ID: 6872790638818192
+
+# Site domain: https://tabuleiro-next-js.vercel.app/
+
+google.com, pub-6872790638818192, DIRECT, f08c47fec0942fa0
